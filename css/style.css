@@ -49,14 +49,14 @@ body {
 }
 
 .card__avatar {
-    width: 35%;
+    width: 30%;
     height: auto;
     border-radius: 50%;
     margin: 0 1rem 1rem;
 }
 
 .card__name {
-    font-weight: 700;
+    font-weight: 600;
     font-size: 1.5rem;
     color: var(--white);
 }
@@ -64,8 +64,8 @@ body {
 .card__location {
     color: var(--green);
     font-weight: 700;
-    font-size: 0.9rem;
-    margin: 0.5rem 0 1rem;
+    font-size: 14px;
+    margin: 0.5rem 0 2rem;
 }
 
 .card__description {
